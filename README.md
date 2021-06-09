@@ -4,8 +4,9 @@ This repository contains short scripts ,which can patch the python on windows to
 
 ## Warning:
 
-Tested on python3.8, It should also work on other platform
-Your can't revert this patch yet. you may need a backup, to avoid risk. 
+Tested on python3.8, It should also work on other version.
+
+You can't revert this patch yet. please backup to avoid the risk.
 
 ## How to use?
 
